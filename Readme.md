@@ -1,4 +1,4 @@
 
-# Labs to demonstrate Network Security.
+# Pràctica de ARP Spoofing en Docker per a SAD de 2n d'ASIR.
 
-Moved to Gitlab: https://gitlab.com/BrunoVernay/lab-arpspoof/
+Basat en el repositori: https://gitlab.com/BrunoVernay/lab-arpspoof/
